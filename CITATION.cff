@@ -1,0 +1,12 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this software or architecture, please cite it as below."
+authors:
+- family-names: "Alam"
+  given-names: "MD Jahangir"
+  orcid: "https://orcid.org/0009-0000-0614-9517"
+title: "The Sentience Protocol: Biomechanical Analog Cryptography and Neuro-Acoustic Entanglement for Post-AGI Sybil Resistance"
+version: 1.0.0
+doi: 10.5281/zenodo.19477925
+date-released: 2026-04-09
+url: "https://github.com/jahangirian/Sentience-Protocol-Core"
